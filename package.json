@@ -1,0 +1,21 @@
+{
+  "name": "patria-bot",
+  "version": "1.0.0",
+  "description": "Patria-bot-by-Arnoldin-White",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./src/index.js",
+    "dev": "nodemon ./src/index.js"
+  },
+  "author": "Arnoldin White",
+  "license": "ISC",
+  "dependencies": {
+    "geolib": "^2.0.24",
+    "lodash": "^4.17.10",
+    "mongoose": "^5.1.1"
+  },
+  "devDependencies": {
+    "node-telegram-bot-api": "^0.30.0",
+    "nodemon": "^1.17.4"
+  }
+}

@@ -1,0 +1,196 @@
+{
+  "films": [
+    {
+      "uuid": "muv01",
+      "name": "Души во мгле 2D RU",
+      "age": "16+",
+      "type": "Movie",
+      "director": "Дэниэл Роби",
+      "actors": "Ромен Дюрис, Ольга Куриленко",
+      "premiere": "10.05.2018",
+      "rate": "В среднем 6,80 из 10",
+      "picture": "http://patria.md/beta/wp-content/uploads/2018/04/kinopoisk.ru-Dans-la-brume-3148811-201x298.jpg",
+      "link": "http://patria.md/movies/toxic-2/",
+      "trailer": "https://www.youtube.com/watch?v=ra-qzUhwxUI",
+      "cinemas": ["ptmultiplex", "ptloteanu"],
+      "date": ["today", "tomorrow"]
+    },
+    {
+      "uuid": "muv02",
+      "name": "Смешарики. Дежавю 3D RU",
+      "age": "0+",
+      "type": "Movie",
+      "director": "Денис Чернов",
+      "actors": "Антон Виноградов",
+      "premiere": "10.05.2018",
+      "rate": "В среднем 0 из 10",
+      "picture": "http://patria.md/beta/wp-content/uploads/2018/04/kinopoisk.ru-Smeshariki-Dezha-vu-3152077-201x298.jpg",
+      "link": "http://patria.md/movies/kikoriki-deja-vu-3d/",
+      "trailer": "https://www.youtube.com/watch?v=v2oJ4gHex0A",
+      "cinemas": ["ptmultiplex", "ptloteanu"],
+      "date": ["today", "after_tomorrow"]
+    },
+    {
+      "uuid": "muv03",
+      "name": "Мстители: Война бесконечности 3D RU",
+      "age": "12+",
+      "type": "Movie",
+      "director": "Энтони Руссо, Джо Руссо",
+      "actors": "Дэйв Баутиста, Крис Хемсворт, Скарлетт Йоханссон, Себастьян Стэн, Зои Салдана, Вин Дизель, Крис Пратт, Том Хиддлстон",
+      "premiere": "03.05.2018",
+      "rate": "В среднем 9.7 из 10",
+      "picture": "http://patria.md/beta/wp-content/uploads/2018/03/kinopoisk.ru-Avengers_3A-Infinity-War-3144080-201x298.jpg",
+      "link": "http://patria.md/movies/razbunatorii-razboiul-infinitului/",
+      "trailer": "https://www.youtube.com/watch?v=UsnDPok1ZOU",
+      "cinemas": ["ptmultiplex", "ptloteanu", "ptriscani"],
+      "date": ["today", "tomorrow"]
+    },
+    {
+      "uuid": "muv04",
+      "name": "Avengers: Infinity War 3D (EN-RO SUB)",
+      "age": "12+",
+      "type": "Movie",
+      "director": "Энтони Руссо, Джо Руссо",
+      "actors": "Дэйв Баутиста, Крис Хемсворт, Скарлетт Йоханссон, Себастьян Стэн, Зои Салдана, Вин Дизель, Крис Пратт, Том Хиддлстон",
+      "premiere": "03.05.2018",
+      "rate": "В среднем 9.7 из 10",
+      "picture": "http://patria.md/beta/wp-content/uploads/2018/03/avengers-infinity-war-617503l-1600x1200-n-ad39896f-201x298.jpg",
+      "link": "http://patria.md/ru/movies/avengers-infinity-war/",
+      "trailer": "https://www.youtube.com/watch?v=UsnDPok1ZOU",
+      "cinemas": ["ptmultiplex", "ptloteanu"],
+      "date": ["today", "after_tomorrow"]
+    },
+    {
+      "uuid": "muv05",
+      "name": "Собибор 2D (РУ-РО СУБ)",
+      "age": "16+",
+      "type": "Movie",
+      "director": "Константин Хабенский",
+      "actors": "Константин Хабенский, Кристофер Ламберт",
+      "premiere": "03.05.2018",
+      "rate": "В среднем 8.2 из 10",
+      "picture": "http://patria.md/beta/wp-content/uploads/2018/04/kinopoisk.ru-Legenda-o-pobege-3127102-201x298.jpg",
+      "link": "http://patria.md/ru/movies/sobibor/",
+      "trailer": "https://www.youtube.com/watch?v=4HrIOUVUwAs",
+      "cinemas": ["ptmultiplex", "ptloteanu"],
+      "date": ["today", "after_tomorrow"]
+    },
+    {
+      "uuid": "muv06",
+      "name": "Папа-мама гусь 3D (РO)",
+      "age": "6+",
+      "type": "Movie",
+      "director": "Крис Дженкинс",
+      "actors": "Джим Гэффиган, Зендея",
+      "premiere": "26.04.2018",
+      "rate": "В среднем 9.0 из 10",
+      "picture": "http://patria.md/beta/wp-content/uploads/2018/03/duck-duck-goose-667926l-201x298.jpg",
+      "link": "http://patria.md/ru/movies/rata-rata-si-gascan-ro/",
+      "trailer": "https://www.youtube.com/watch?v=8QAQ6xW_bXE",
+      "cinemas": ["ptmultiplex", "ptloteanu"],
+      "date": ["today", "after_tomorrow"]
+    },
+    {
+      "uuid": "muv07",
+      "name": "Папа-мама гусь 3D (РУ)",
+      "age": "6+",
+      "type": "Movie",
+      "director": "Крис Дженкинс",
+      "actors": "Джим Гэффиган, Зендея",
+      "premiere": "26.04.2018",
+      "rate": "В среднем 7.0 из 10",
+      "picture": "http://patria.md/beta/wp-content/uploads/2018/03/duck-duck-goose-667926l-201x298.jpg",
+      "link": "http://patria.md/ru/movies/rata-rata-si-gascan-ro/",
+      "trailer": "https://www.youtube.com/watch?v=8QAQ6xW_bXE",
+      "cinemas": ["ptmultiplex", "ptloteanu"],
+      "date": ["today", "tomorrow"]
+    },
+    {
+      "uuid": "muv08",
+      "name": "Остров собак 2D (PУ)",
+      "age": "12+",
+      "type": "Movie",
+      "director": "Уэс Андерсон",
+      "actors": "Брайан Крэнстон, Кой Рэнкин, Эдвард Нортон, Лив Шрайбер, Грета Гервиг, Билл Мюррей",
+      "premiere": "03.05.2018",
+      "rate": "В среднем 10.0 из 10",
+      "picture": "http://patria.md/beta/wp-content/uploads/2018/04/939785-201x298.jpg",
+      "link": "http://patria.md/movies/insula-cainilor/",
+      "trailer": "https://www.youtube.com/watch?v=4im85EMeNUE",
+      "cinemas": ["ptmultiplex", "ptloteanu"],
+      "date": ["today", "tomorrow"]
+    },
+    {
+      "uuid": "muv10",
+      "name": "Дэдпул 2 в 2D (РУ)",
+      "age": "16+",
+      "type": "Movie",
+      "director": "Дэвид Литч",
+      "actors": "Райан Рейнольдс, Джош Бролин",
+      "premiere": "17.05.2018",
+      "rate": "В среднем 9.3 из 10",
+      "picture": "http://patria.md/beta/wp-content/uploads/2018/04/deadpool-2-712732l-201x298.jpg",
+      "link": "http://patria.md/ru/movies/deadpool-2/",
+      "trailer": "https://www.youtube.com/watch?v=tpXwjE8-TJo",
+      "cinemas": ["ptmultiplex", "ptloteanu", "ptriscani"],
+      "date": ["today", "tomorrow"]
+    },
+    {
+      "uuid": "muv11",
+      "name": "Deadpool 2 in 2D (EN-RO SUB)",
+      "age": "16+",
+      "type": "Movie",
+      "director": "Дэвид Литч",
+      "actors": "Райан Рейнольдс, Джош Бролин",
+      "premiere": "17.05.2018",
+      "rate": "В среднем 10 из 10",
+      "picture": "http://patria.md/beta/wp-content/uploads/2018/04/deadpool-2-938461l-201x298.jpg",
+      "link": "http://patria.md/ru/movies/deadpool-2-en/",
+      "trailer": "https://www.youtube.com/watch?v=5HBd93neah8",
+      "cinemas": ["ptmultiplex", "ptloteanu"],
+      "date": ["today", "after_tomorrow"]
+    }
+  ],
+  "cinemas": [
+    {
+      "uuid": "ptloteanu",
+      "name": "Patria Loteanu",
+      "location": {
+        "latitude": 47.02686,
+        "longitude": 28.82832
+      },
+      "url": "http://patria.md/ru/cinemas/",
+      "films": ["muv11", "muv10", "muv01", "muv06", "muv03", "muv02"]
+    },
+    {
+      "uuid": "ptmultiplex",
+      "name": "Patria Multiplex",
+      "location": {
+        "latitude": 47.0044342,
+        "longitude": 28.841203
+      },
+      "url": "http://patria.md/ru/cinemas/",
+      "films": ["muv11", "muv10", "muv02", "muv01", "muv05", "muv03", "muv04", "muv08", "muv06", "muv07"]
+    },
+    {
+      "uuid": "ptriscani",
+      "name": "Patria Riscani",
+      "location": {
+        "latitude": 47.06013,
+        "longitude": 28.86613
+      },
+      "url": "http://patria.md/ru/cinemas/",
+      "films": ["muv10", "muv03"]
+    },
+    {
+      "uuid": "ptbalti",
+      "name": "Patria Balti",
+      "location": {
+        "latitude": 47.75964,
+        "longitude": 27.92536
+      },
+      "url": "http://patria.md/ru/cinemas/",
+      "films": ["muv11", "muv10", "muv02", "muv01", "muv05", "muv03", "muv04", "muv08", "muv06", "muv07"]
+    }
+  ]
+}
